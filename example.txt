@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is an example file
 Modified content in G24AIT146 branch
+=======
+Completely new content in G24AIT144 branch
+>>>>>>> G24AIT144
